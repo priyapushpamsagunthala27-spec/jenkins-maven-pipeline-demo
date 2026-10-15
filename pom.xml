@@ -32,7 +32,7 @@
       </plugin>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-jar-plugin</artifactId>
+        <artifactId>maven</artifactId>
         <version>3.3.0</version>
         <configuration>
           <archive>
